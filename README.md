@@ -2,7 +2,7 @@
 
 Date created: 2021 September 20
 
-README for de Eyto Feeagh data
+README FOR DE EYTO FEEAGH DATA
 
 This document details the data cleaning and harmonization procedure performed for the Zooplankton as Indicators working group (ZIG). It is meant to highlight major cleaning steps taken to make the dataset compatible with other submitted dataset. Any questions about the larger ZIG project can be submitted to:
 
@@ -74,7 +74,10 @@ loaded via a namespace (and not attached):
 [37] rvest_1.0.1      assertthat_0.2.1 colorspace_2.0-2 utf8_1.2.2      
 [41] stringi_1.7.4    munsell_0.5.0    broom_0.7.9      crayon_1.4.1
 
-Notes from Lia Ivanick while cleaning de Eyto data:
+
+
+
+NOTES FROM LIA IVANICK WHILE CLEANING DE EYTO DATASET
 
 Lake Information
 -Lake comments are not type character because they are hard coded as NAs
