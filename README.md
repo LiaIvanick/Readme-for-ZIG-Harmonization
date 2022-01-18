@@ -86,6 +86,8 @@ Water Parameters
 -time_hhm was originally given as "between 09:00 and 16:00" --> changed to NA
 -no data for NO2NO3_mgL, do_hypo_mgL, alkalinity_mgL, silica_mgL, hardness_mgL, dissolved_P_ugL, DIC_um, TKN_mgL, chloride_mgL
 -changed the following parameters from class character/numeric (NAs introduced by coercion)--> class double: surface_chla_ug_l, NO2NO3_mgL, TKN_mgL,conductivity_umho_cm , chloride_mgL, turbidity_NTU, surface_tp_ug_l ,silica_mgL, do_epi_mgL, DOC_um, TN_mgL, surface_ph, secchi_depth_m, thermocline_depth , dissolved_P_ugL, do_hypo_mgL, DIC_um, hardness_mgL
+- Changed surface_chla_ug_l zeros to 0.5 ug/l
+- Changed do_epi_mg_l zeros to NA
 
 Taxa List
 -invasive column is not type character because invasive is hard coded as NAs
